@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\something webapp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "quick draw webapp"
+	}
+}
